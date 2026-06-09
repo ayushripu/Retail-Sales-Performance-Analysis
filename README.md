@@ -1,9 +1,11 @@
-```markdown
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange.svg)](https://jupyter.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://mysql.com/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)](https://powerbi.microsoft.com/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-```
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-green.svg)](https://pandas.pydata.org/)
+[![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
+
 
 # 📊 Retail Sales Performance Analysis
 
