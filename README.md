@@ -125,20 +125,9 @@ February	123,500
 category_contribution = (df.groupby('CATEGORY')['SALES'].sum() / df['SALES'].sum() * 100).round(2)
 print(category_contribution)
 
-# Output:
-# CATEGORY
-# Electronics    83.76
-# Furniture      16.24
-
 # Monthly sales trend
 monthly_sales = df.groupby('MONTH')['SALES'].sum()
 print(monthly_sales)
-
-# Output:
-# MONTH
-# April      456500.0
-# February   123500.0
-# March      811500.0
 
 📈 Future Improvements
 . Add forecasting (time series prediction for next quarter)
