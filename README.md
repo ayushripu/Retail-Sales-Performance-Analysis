@@ -5,7 +5,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-green.svg)](https://pandas.pydata.org/)
 
 # 📊 Retail Sales Performance Analysis
-   
+
 **End-to-end data analysis project using Python, SQL, Excel, and Power BI to uncover actionable insights from retail sales data.**
 
 ---
